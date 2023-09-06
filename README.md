@@ -1,5 +1,8 @@
 # url-shortner
 
+## Purpose
+This project was an interview question which asked for the implementation of a URL shortener.
+
 ## Run
 - go run main.go
 - localhost:8080/shorten?url=<longUrl> to request a shortened URL
